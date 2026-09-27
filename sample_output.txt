@@ -1,0 +1,10 @@
+ORIGINAL TEXT
+
+Machine learning is widely used in modern applications.
+It helps organizations analyze large datasets, identify patterns,
+and make predictions. These technologies are increasingly being
+used in healthcare, banking, education, and transportation.
+
+
+PARAPHRASED TEXT
+Machine learning is widely used in modern applications. It helps organizations analyze large datasets, identify patterns and make predictions. These technologies are increasingly used in healthcare, banking, education and transportation.

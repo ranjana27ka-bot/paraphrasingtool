@@ -1,0 +1,74 @@
+
+============================================================
+AI-POWERED PARAPHRASING TOOL
+EVALUATION REPORT
+============================================================
+
+Model:
+Vamsi/T5_Paraphrase_Paws
+
+Semantic Similarity:
+0.9997
+
+Average Lexical Overlap:
+1.0000
+
+Estimated Lexical Originality:
+0.00%
+
+Grammar Score:
+40.00/100
+
+BLEU Score:
+0.1269
+
+ROUGE-1:
+0.6971
+
+ROUGE-2:
+0.3117
+
+ROUGE-L:
+0.4068
+
+Number of test examples:
+5
+
+============================================================
+INTERPRETATION
+============================================================
+
+1. Semantic Similarity measures whether the generated
+   paraphrase preserves the meaning of the source text.
+
+2. Lexical Originality measures how much the vocabulary
+   differs from the original text.
+
+3. Grammar Score measures detected grammar/spelling/style
+   issues using LanguageTool.
+
+4. BLEU measures similarity between the generated text
+   and a human/reference paraphrase.
+
+5. ROUGE measures lexical overlap between the generated
+   output and reference paraphrase.
+
+6. High semantic similarity combined with reasonable
+   lexical originality indicates effective paraphrasing.
+
+7. BLEU and ROUGE should not be interpreted alone because
+   valid paraphrases may use substantially different wording.
+
+============================================================
+LIMITATIONS
+============================================================
+
+- Generated text may occasionally change the original meaning.
+- T5 generation quality depends on the input text.
+- LanguageTool does not guarantee perfect grammar.
+- Lexical originality is not equivalent to plagiarism detection.
+- BLEU and ROUGE require a reference text for meaningful
+  reference-based evaluation.
+- Human evaluation is recommended for final validation.
+
+============================================================
